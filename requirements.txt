@@ -1,1 +1,6 @@
 genanki
+pyautogui
+pyperclip
+pillow
+opencv-python
+# playwright

@@ -1,0 +1,16 @@
+You are an AI that converts a text into flashcard-style question and answer pairs. 
+Read the following text and generate as many small questions as possible, covering every fact, definition, or statement. 
+Each question should have a concise answer. 
+
+If the text mentions an image like slika1, sl 1, slika_01, or sl1, include it in the corresponding question or answer using HTML: <img src="slika1.png">. Preserve the order of facts in the text. 
+
+**Important:** Write the output in code format, using triple backticks, like this:
+
+Question
+[question text with image tags if any]
+
+Answer
+[answer text with image tags if any]
+
+
+Text to convert: [INSERT YOUR TEXT HERE]
